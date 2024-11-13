@@ -34,7 +34,7 @@ I specialize in custom software development for businesses seeking tailored, hig
 
 ### 📫 Get in Touch
 
-- **Email**: [nishantpathak.cse@gmail.com](mailto:nishantpathak.cse@gmail.com)
+- **Email**: [hello@kursaha.com](mailto:hello@kursaha.com)
 - **GitHub**: [Nishant-Pathak](https://github.com/Nishant-Pathak)
 - **LinkedIn**: [Nishant Pathak](https://www.linkedin.com/in/pathaknishant/)
 
