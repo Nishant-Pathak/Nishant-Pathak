@@ -1,5 +1,5 @@
 # Nishant Pathak
-![[Profile Banner](https://github.com/user-attachments/assets/541e03cd-fad8-4a9c-a594-c3076b173c12)
+![Profile Banner](https://github.com/user-attachments/assets/541e03cd-fad8-4a9c-a594-c3076b173c12)
 
 Welcome to my GitHub! I'm Nishant Pathak, founder of **Kursaha** and **FutureNest**. With over a decade of experience in tech leadership, software architecture, and engineering, I offer **custom software development services** to help businesses grow and innovate.
 
